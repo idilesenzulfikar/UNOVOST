@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## **UnOVOST: Unsupervised Offline Video Object Segmentation and Tracking**
 
@@ -52,3 +53,6 @@ Finally, run the code:
 
 ### Contact
 If you encounter any problems within the code or have any questions, please get in touch with Idil Esen Zulfikar (idil dot esen dot zuelfikar at rwth-aachen dot de) or [Jonathon Luiten](https://www.vision.rwth-aachen.de/person/216/)  (luiten at vision dot rwth-aachen dot de).
+=======
+# UNOVOST
+>>>>>>> d5fd45e048ac2130c2c55d121dda896a584738df
