@@ -1,0 +1,7 @@
+split: 'val_3' # val | train | test-dev | test-challenge
+threshold:
+  overlap: 0.2  # proposal clipping threshold
+  opt_flow: 0.05 #optical flow threshold
+optimization: 'hungarian' # greedy | hungarian
+use_iom: False #never used, but there is a part in the code for that option.
+no_merge: False # implement no merging
