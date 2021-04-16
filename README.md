@@ -50,4 +50,4 @@ Finally, run the code:
 ```
 
 ### Contact
-If you encounter any problems within the code or have any questions, please get in touch with [Idil Esen Zulfikar](https://www.vision.rwth-aachen.de/person/245/) (idil dot esen dot zuelfikar at rwth-aachen dot de) or [Jonathon Luiten](https://www.vision.rwth-aachen.de/person/216/)  (luiten at vision dot rwth-aachen dot de).
+If you encounter any problems within the code or have any questions, please get in touch with [Idil Esen Zulfikar](https://www.vision.rwth-aachen.de/person/245/) (zuelfikar at vision dot rwth-aachen dot de) or [Jonathon Luiten](https://www.vision.rwth-aachen.de/person/216/)  (luiten at vision dot rwth-aachen dot de).
